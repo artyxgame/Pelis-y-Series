@@ -1,0 +1,106 @@
+body {
+    background-color: black;
+}
+nav{
+    background-color: #444;
+    padding: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #ee0a0a;
+}
+/* ......... */
+
+header.index {
+    color: red;
+    text-align: center;
+}
+header.pelis {
+    color: blue;
+    text-align: center;
+}
+header.series {
+    color: green;
+    text-align: center;
+}
+header.listas {
+    color: white;
+    text-align: center;
+}
+/* ..... */
+td.a {
+    color: black;
+}
+table.index {
+    position: relative;
+    left: 30px;
+    border: red solid 2px;
+}
+table.listas {
+    position: relative;
+    left: 30px;
+    border: white solid 2px;
+}
+table.pelis {
+    position: relative;
+    
+    border: blue solid 2px;
+}
+table.series {
+    position: relative;
+    left: 30px;
+    border: green solid 2px;
+}
+td.index1 {
+    text-align: center;
+    color: white;
+    border: blue solid 1px;
+}
+td.listas1 {
+    text-align: center;
+    color: white;
+    border: green solid 1px;
+}
+td.pelis1 {
+    text-align: center;
+    color: white;
+    border: red solid 1px;
+}
+td.series1 {
+    text-align: center;
+    color: white;
+    border: white solid 1px;
+}
+td.index2 {
+    border: green solid 1px;
+}
+td.listas2 {
+    border: red solid 1px;
+}
+td.pelis2 {
+    border: white solid 1px;
+}
+td.series2 {
+    border: blue solid 1px;
+}
+/* Temporal */
+p.p {
+    color: white;
+}
+
+/* left: 30px; */
