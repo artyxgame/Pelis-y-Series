@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+nav{
+    background-color: #444;
+    padding: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #ee0a0a;
+}
+/* ..... */
+header {
+    text-align: center;
+    color: darkgoldenrod;
+}
+table {
+    position: relative;
+    left: 30px;
+    border: brown solid 2px;
+}
+td.a {
+    color: black;
+}
+td.pelis1 {
+    color: white;
+    border: peru solid 1px;
+}
+td.pelis2 {
+    color: white;
+    border: chocolate solid 1px;
+}
